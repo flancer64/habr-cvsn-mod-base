@@ -11,6 +11,6 @@ class Lib
 {
     public function init()
     {
-        echo "This is base module.";
+        echo "This is base module.\n";
     }
 }

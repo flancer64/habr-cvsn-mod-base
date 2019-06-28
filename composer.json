@@ -1,0 +1,21 @@
+{
+  "name": "flancer64/habr-cvsn-mod-base",
+  "version": "0.1.0",
+  "description": "Demo for Habr: base module.",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Alex Gusev",
+      "email": "alex@flancer64.com"
+    }
+  ],
+  "type": "library",
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Flancer64\\HabrCvN\\": "src/"
+    }
+  },
+  "repositories": {}
+}

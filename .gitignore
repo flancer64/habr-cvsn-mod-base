@@ -1,0 +1,5 @@
+/.idea/
+# Dependencies folder
+/node_modules/
+/package-lock.json
+!/var/tmp/README*

@@ -1,2 +1,3 @@
 # habr-cvsn-mod-base
-Demo for Habr: base module 
+
+Demo for Habr: base module.

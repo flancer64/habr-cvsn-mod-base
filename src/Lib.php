@@ -4,10 +4,10 @@
  * Since: 2019
  */
 
-namespace Flancer64\HabrCvN;
+namespace Flancer64\HabrCvN\Base;
 
 
-class BaseLib
+class Lib
 {
     public function init()
     {

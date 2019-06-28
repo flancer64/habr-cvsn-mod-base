@@ -14,7 +14,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "Flancer64\\HabrCvN\\": "src/"
+      "Flancer64\\HabrCvN\\Base\\": "src/"
     }
   },
   "repositories": {}
